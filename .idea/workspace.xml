@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c90deefd-190b-4db8-92be-c289098fda24" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RegistrationTestPositive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-suites/positive/registration-positive.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/AuthenticationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/CommonProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/objects/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#1269#1270#0" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/objects/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/InformationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test-suites/negative/authorization-negative.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/AuthorizationTestPositive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RandomData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/screens/Locators.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/SignInPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/objects/Address.java" />
+        <option value="$PROJECT_DIR$/src/test/java/objects/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Properties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CommonProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/CommonProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/AuthenticationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/test-suites/positive/registration-positive.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/InformationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RegistrationTestPositive.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="test-suites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="test-suites" type="462c0819:PsiDirectoryNode" />
+              <item name="negative" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTask" type="462c0819:PsiDirectoryNode" />
+              <item name="test-suites" type="462c0819:PsiDirectoryNode" />
+              <item name="positive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:2.44.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:2.44.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-2.44.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:2.44.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-2.44.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:2.44.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-2.44.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:2.44.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-2.44.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:7.0.0-beta1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:7.0.0-beta1" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-7.0.0-beta1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.testng:testng:7.0.0-beta1" type="70bed36:NamedLibraryElementNode" />
+              <item name="testng-7.0.0-beta1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550445083421" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/camelrestjdbcexample-develop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Username\gitlabProjects\AutomationTask\test-suites\positive" />
+      <recent name="C:\Users\Username\gitlabProjects\AutomationTask\src\test\java\pages" />
+      <recent name="C:\Users\Username\gitlabProjects\AutomationTask\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml">
+    <configuration name="C:/Users/Username/.IdeaIC2018.3/system/temp-testng-customsuite.xml (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTask" />
+      <option name="SUITE_NAME" value="$USER_HOME$/.IdeaIC2018.3/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTestPositive" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/negative/registration-negative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-suites/negative/registration-negative.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-suites/positive/registration-positive.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTestPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTestPositive" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTestPositive.testCreateAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTestPositive" />
+      <option name="METHOD_NAME" value="testCreateAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" />
+        <item itemvalue="TestNG.C:/Users/Username/gitlabProjects/AutomationTask/test-suites/negative/registration-negative.xml" />
+        <item itemvalue="TestNG.RegistrationTestPositive.testCreateAccount" />
+        <item itemvalue="TestNG.C:/Users/Username/.IdeaIC2018.3/system/temp-testng-customsuite.xml (3)" />
+        <item itemvalue="TestNG.RegistrationTestPositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90deefd-190b-4db8-92be-c289098fda24" name="Default Changelist" comment="" />
+      <created>1548690204504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548690204504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_negative_registration-negative_xml - 2019.02.18 at 01h 48m 03s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/negative/registration-negative.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 22m 11s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 23m 22s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 24m 17s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 31m 49s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 33m 42s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 48m 01s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 51m 50s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 54m 50s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Username_gitlabProjects_AutomationTask_test-suites_positive_registration-positive_xml - 2019.02.18 at 02h 57m 16s.xml">
+      <configuration name="C:/Users/Username/gitlabProjects/AutomationTask/test-suites/positive/registration-positive.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7302231" visible="true" weight="0.12550336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.13208556" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.26977688" side_tool="true" weight="0.096481875" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49612403" weight="0.4091653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8060403" weight="0.26407507" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7630873" weight="0.42627347" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.7110874" weight="0.23913044" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.70255864" weight="0.2826087" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.752349" weight="0.37801608" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7643923" weight="0.34565216" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19395973" side_tool="true" weight="0.26407507" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.46695095" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Dynamic Properties" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.57835823" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7302231" visible="true" weight="0.12550336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.13208556" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.26977688" side_tool="true" weight="0.096481875" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49612403" weight="0.4091653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8060403" weight="0.26407507" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7630873" weight="0.42627347" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.7110874" weight="0.23913044" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.70255864" weight="0.2826087" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.752349" weight="0.37801608" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7643923" weight="0.34565216" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19395973" side_tool="true" weight="0.26407507" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.46695095" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Dynamic Properties" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.57835823" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/RegistrationTestPositive.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/RegistrationTestPositive.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/InformationPage.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>getText(nameLocator)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Random().nextInt(optionsSize - 1);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Random().nextInt(optionsSize - 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int optionsSize     = this.getSize(stateOptionLocator);
+int skippedElements = 2;
+int randomElement   = new Random().nextInt(optionsSize - 1) + skippedElements;
+
+this.clickElementByIndex(stateOptionLocator, randomElement);
+this.getTextByIndex(stateOptionLocator, randomElement);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int optionsSize     = this.getSize(stateOptionLocator);
+int skippedElements = 2;
+int randomElement   = new Random().nextInt(optionsSize - 1) + skippedElements;
+
+this.clickElementByIndex(stateOptionLocator, randomElement);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getSize(stateOptionLocator);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>click(createButtonLocator);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/objects/User" />
+    <entry file="file://$PROJECT_DIR$/src/main/RandomDate" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RandomData.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationTask.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.13.0/selenium-api-3.13.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/internal/MethodInheritance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="472" column="17" lean-forward="true" selection-start-line="472" selection-start-column="17" selection-end-line="472" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Locators.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/RandomStringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CommonProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/VerifyError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CommonProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="461" column="24" lean-forward="true" selection-start-line="461" selection-start-column="24" selection-end-line="461" selection-end-column="24" />
+          <folding>
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AuthenticationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-suites/positive/registration-positive.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/InformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RegistrationTestPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/objects/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/objects/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

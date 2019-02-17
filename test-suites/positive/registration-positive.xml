@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Create account - positive suite " verbose="1">
+  <test name="Created account with filling all fields">
+    <classes>
+      <class name="RegistrationTestPositive">
+        <methods>
+          <include name="testCreateAccountAllFields" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+
+  <test name="Created account with filling required fields">
+    <classes>
+      <class name="RegistrationTestPositive">
+        <methods>
+          <include name="testCreateAccountRequiredFields" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+
+</suite>
